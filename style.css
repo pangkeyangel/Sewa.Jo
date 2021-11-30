@@ -1,0 +1,56 @@
+body {
+    background-color: #00BF88;
+}
+a {
+    font-size: x-large;
+}
+span {
+    color: black;
+}
+
+nav 
+{
+    border-style: solid;
+    border-top-color: #025E32;
+    border-bottom-color: #025E32;
+    border-left-color: white;
+    border-right-color: white;
+}
+
+.alamat{
+    color: black;
+}
+
+.moreofus{
+    margin-bottom: 5rem;
+}
+
+#au{
+    color: white;
+}
+
+.tlp{
+    color: black;
+}
+
+h1 {
+    color : white ;
+    font-size: 60px;
+}
+
+.btn-success{
+    background-color: #33B838;
+}
+
+footer {
+    background-color: #F7F7F7;
+    border-style: solid;
+    border-top-color: #025E32;
+    border-bottom-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    color: black;
+}
+
+
+
